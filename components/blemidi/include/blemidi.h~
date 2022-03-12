@@ -41,7 +41,7 @@ extern "C" {
 
 
 #ifndef BLEMIDI_DEVICE_NAME
-#define BLEMIDI_DEVICE_NAME "blupid"
+#define BLEMIDI_DEVICE_NAME "MIDIbox"
 #endif  
 
 #ifndef BLEMIDI_TAG
